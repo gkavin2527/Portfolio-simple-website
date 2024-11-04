@@ -11,5 +11,6 @@ This is a simple portfolio website created with only HTML and basic CSS. The web
 - Easy navigation.
 - Lightweight structure focused on essential HTML and CSS.
 
-you can access my portfolio website by visiting Feel free to explore the code and suggest improvements!
+you can access my portfolio website by visiting https://gkavin2527.github.io/Portfolio-simple-website/
+Feel free to explore the code and suggest improvements!
 
